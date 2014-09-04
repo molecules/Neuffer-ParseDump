@@ -301,5 +301,5 @@ sub clean_web_filename {
 =head1 BUGS AND LIMITATIONS
 
      There are no known bugs in this module.
-     Please report problems to 1.
+     Please report problems to the author.
      Patches are welcome.
